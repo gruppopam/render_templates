@@ -1,2 +1,2 @@
-# render_templates
-Render templates for services - GEM
+# render_properties
+gem to render properties for development and test
