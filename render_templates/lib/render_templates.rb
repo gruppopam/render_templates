@@ -3,7 +3,7 @@ require 'json'
 require 'fileutils'
 
 module RenderTemplates
-  def render
+  def self.render
     input_json = ARGV[0]
     input_template = ARGV[1]
     output_properties = ARGV[2]
