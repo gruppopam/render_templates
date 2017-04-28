@@ -2,4 +2,4 @@
 
 require 'render_templates'
 
-# TODO
+RenderTemplates::render
